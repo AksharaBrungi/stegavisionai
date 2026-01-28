@@ -1,0 +1,7 @@
+{
+  "name": "StegaVision AI: Deep Steganography",
+  "description": "An advanced image steganography platform utilizing autoencoder-inspired latent representation and LSB-assisted embedding for secure information hiding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
